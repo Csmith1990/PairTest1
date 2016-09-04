@@ -1,2 +1,2 @@
-# PairTest1
-Testing Pair Programming
+# Prototype
+We intend on making this a Javascript web game of sorts!
